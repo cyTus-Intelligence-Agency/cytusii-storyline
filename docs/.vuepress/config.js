@@ -5,6 +5,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'iM', link: '/iM/' },
+      { text: '角色文档', link: '/databases/' },
     ],
     sidebar: {
       '/iM/': [
