@@ -25,11 +25,11 @@ Cytus II 是由[雷亚游戏](https://www.rayark.com/zh/)推出的一款音乐�
 ## 参与贡献
 我们欢迎你对本站的纰漏，以及 Cytus II 剧情相关的话题展开讨论。
 
-本站的 GitHub 仓库地址是：https://github.com/Astrian/cytusii-storyline。
+本站的 GitHub 仓库地址是：[https://github.com/cyTus-Intelligence-Agency/cytusii-storyline](https://github.com/cyTus-Intelligence-Agency/cytusii-storyline)。
 
 对于本站收录信息的纰漏，以及相关信息的优化（例如添加不同文件间的超链接等），可以通过拉取请求（pull request）的形式，提交到主分支。这需要您[具有一定 Git 基础知识](https://www.liaoxuefeng.com/wiki/896043488029600)。
 
-若您认为学习 Git 太难，或是仅仅想对剧情发起讨论，也欢迎您到网页版 GitHub 的对应仓库发起[议题（issue）](https://github.com/Astrian/cytusii-storyline/issues)。
+若您认为学习 Git 太难，或是仅仅想对剧情发起讨论，也欢迎您到网页版 GitHub 的对应仓库发起[议题（issue）](https://github.com/cyTus-Intelligence-Agency/cytusii-storyline/issues)。
 
 ---
 
