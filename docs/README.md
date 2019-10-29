@@ -3,6 +3,8 @@
 
 这里是 Cytus II 游戏非官方的剧情线情报整理站点。所有情报皆由 Cytus II 粉丝从游戏中整理，目的是为了更好地整理 Cytus II 游戏的剧情线。
 
+[情报站地址](https://cytusiistoryline.joincygress.com/)
+
 ## 什么是 Cytus II？
 Cytus II 是由[雷亚游戏](https://www.rayark.com/zh/)推出的一款音乐游戏，玩家通过收听音乐，并根据特定节奏，在特定时间点点击设备屏幕上的对应拍点得分。
 
