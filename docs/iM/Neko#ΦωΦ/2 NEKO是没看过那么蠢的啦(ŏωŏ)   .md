@@ -45,7 +45,7 @@ Smurky
 FCodex  
 Æsir跟NEKO曲风根本不同也要拿来比。  
 
-MirriLL
+MirriLL  
 歌还是蛮好听的啦 不过我也没去Æsir-FEST
 
 Noposa  
@@ -60,8 +60,8 @@ Poopytrap
 Zigzag  
 想吐太扯了吧wwwww  
 
-C\_H\_U
+C\_H\_U  
 我有参加阿根本完全被耍！！！!  
 
-NekoSamurai
+NekoSamurai  
 萝菠头表演结束之后就没了，观众集体暴动XD
